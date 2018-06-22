@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name myfootprint)(type KiCad)(uri "$(KIPRJMOD)/myfootprint.pretty")(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri "$(KIPRJMOD)/logo")(options "")(descr ""))
+  (lib (name w_conn_misc)(type KiCad)(uri "$(KIPRJMOD)/w_conn_misc.pretty")(options "")(descr ""))
+  (lib (name switches)(type KiCad)(uri "$(KIPRJMOD)/SW_PUSH_SMALL_THT.pretty")(options "")(descr ""))
+)
